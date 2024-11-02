@@ -5,5 +5,6 @@ to give you as a developer the best experience defining the tasks your project a
 being very structured and providing nearly unlimited extendability.
 
 Give `nur` a try, start by reading the [quickstart documentation](https://nur-taskrunner.github.io/docs/quickstart.html).
+Or just directly go to the [nur repository](https://github.com/nur-taskrunner/nur) and start coding.
 
 And most importantly: Have some fun using `nur` for your daily project workflows. ✨
